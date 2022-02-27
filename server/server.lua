@@ -1,3 +1,5 @@
+-- Most of the SQL code from Marcus edited by JackTheDev
+
 ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
