@@ -14,7 +14,7 @@ To install, simply:
  
  
  
- I created this script originally for PGN, but we parted ways so i'm allowing anyone to download this. Sadly though, no support shall be given. 
+ I created this script originally for PGN, but we parted ways so i'm allowing anyone to download this. Sadly though, no support shall be given. This script was created a while ago so may not be up to the standards of other scripts.
  
  However, I do make vehicle models that can be found here:
  
